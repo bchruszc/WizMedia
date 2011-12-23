@@ -28,7 +28,7 @@
 .ui-accordion-header {
 	/*resets*/margin: 0; padding: 0; border: 0; outline: 0; line-height: 1.3; text-decoration: none; font-size: 100%; list-style: none;
 	cursor: pointer;
-	background: #e0e0e0 url(/rook_media/scoreboard/img/theme/rook/e0e0e0_40x100_textures_02_glass_80.png) 0 50% repeat-x;
+	background: #e0e0e0 url(/media/scoreboard/img/theme/rook/e0e0e0_40x100_textures_02_glass_80.png) 0 50% repeat-x;
 }
 .ui-accordion-header a {
 	/*resets*/margin: 0; padding: 0; border: 0; outline: 0; line-height: 1.3; text-decoration: none; font-size: 100%; list-style: none;
@@ -38,26 +38,26 @@
 	text-decoration: none;
 	padding: .5em .5em .5em 1.7em;
 	color: #444444;
-	background: url(/rook_media/scoreboard/img/theme/rook/888888_7x7_arrow_right.gif) .5em 50% no-repeat;
+	background: url(/media/scoreboard/img/theme/rook/888888_7x7_arrow_right.gif) .5em 50% no-repeat;
 }
 .ui-accordion-header a:hover {
-	background: url(/rook_media/scoreboard/img/theme/rook/222222_7x7_arrow_right.gif) .5em 50% no-repeat;
+	background: url(/media/scoreboard/img/theme/rook/222222_7x7_arrow_right.gif) .5em 50% no-repeat;
 	color: #111111;
 }
 .ui-accordion-header:hover {
-	background: #d8d8d8 url(/rook_media/scoreboard/img/theme/rook/d8d8d8_40x100_textures_02_glass_90.png) 0 50% repeat-x;
+	background: #d8d8d8 url(/media/scoreboard/img/theme/rook/d8d8d8_40x100_textures_02_glass_90.png) 0 50% repeat-x;
 	color: #111111;
 }
 .selected .ui-accordion-header, .selected .ui-accordion-header:hover {
-	background: #8ab9ff url(/rook_media/scoreboard/img/theme/rook/8ab9ff_40x100_textures_02_glass_50.png) 0 50% repeat-x;
+	background: #8ab9ff url(/media/scoreboard/img/theme/rook/8ab9ff_40x100_textures_02_glass_50.png) 0 50% repeat-x;
 }
 .selected .ui-accordion-header a, .selected .ui-accordion-header a:hover {
 	color: #000000;
-	background: url(/rook_media/scoreboard/img/theme/rook/ffffff_7x7_arrow_down.gif) .5em 50% no-repeat;
+	background: url(/media/scoreboard/img/theme/rook/ffffff_7x7_arrow_down.gif) .5em 50% no-repeat;
 }
 .ui-accordion-content {
 	padding: 1.5em 1.7em;	
-	background: #f3f3f3 url(/rook_media/scoreboard/img/theme/rook/f3f3f3_40x100_textures_01_flat_0.png) 0 0 repeat-x;
+	background: #f3f3f3 url(/media/scoreboard/img/theme/rook/f3f3f3_40x100_textures_01_flat_0.png) 0 0 repeat-x;
 	color: #362b36;
 	font-size: 1em;
 }
@@ -106,17 +106,17 @@
 	text-decoration: none;
 	padding: .5em 1.7em;
 	color: #444444;
-	background: #e0e0e0 url(/rook_media/scoreboard/img/theme/rook/e0e0e0_40x100_textures_02_glass_80.png) 0 50% repeat-x;
+	background: #e0e0e0 url(/media/scoreboard/img/theme/rook/e0e0e0_40x100_textures_02_glass_80.png) 0 50% repeat-x;
 }
 .ui-tabs-nav a:hover {
-	background: #d8d8d8 url(/rook_media/scoreboard/img/theme/rook/d8d8d8_40x100_textures_02_glass_90.png) 0 50% repeat-x;
+	background: #d8d8d8 url(/media/scoreboard/img/theme/rook/d8d8d8_40x100_textures_02_glass_90.png) 0 50% repeat-x;
 	color: #111111;
 }
 .ui-tabs-selected {
 	border-bottom-color: #8ab9ff;
 }
 .ui-tabs-selected a, .ui-tabs-selected a:hover {
-	background: #8ab9ff url(/rook_media/scoreboard/img/theme/rook/8ab9ff_40x100_textures_02_glass_50.png) 0 50% repeat-x;
+	background: #8ab9ff url(/media/scoreboard/img/theme/rook/8ab9ff_40x100_textures_02_glass_50.png) 0 50% repeat-x;
 	color: #000000;
 }
 .ui-tabs-panel {
@@ -124,7 +124,7 @@
 	font-family: Lucida Grande, Lucida Sans, Arial, sans-serif;
 	clear:left;
 	border: 1px solid #cccccc;
-	background: #f3f3f3 url(/rook_media/scoreboard/img/theme/rook/f3f3f3_40x100_textures_01_flat_0.png) 0 0 repeat-x;
+	background: #f3f3f3 url(/media/scoreboard/img/theme/rook/f3f3f3_40x100_textures_01_flat_0.png) 0 0 repeat-x;
 	color: #362b36;
 	padding: 1.5em 1.7em;	
 	font-size: 1.2em;
@@ -142,7 +142,7 @@
 	/*resets*/margin: 0; padding: 0; border: 0; outline: 0; line-height: 1.3; text-decoration: none; font-size: 100%; list-style: none;
 	font-family: Lucida Grande, Lucida Sans, Arial, sans-serif;
 	font-size: 1.2em;
-	background: #f3f3f3 url(/rook_media/scoreboard/img/theme/rook/f3f3f3_40x100_textures_01_flat_0.png) 0 0 repeat-x;
+	background: #f3f3f3 url(/media/scoreboard/img/theme/rook/f3f3f3_40x100_textures_01_flat_0.png) 0 0 repeat-x;
 	border: 1px solid #dddddd;
 	height: .8em;
 	position: relative;
@@ -154,21 +154,21 @@
 	top: -3px;
 	width: 1.2em;
 	height: 1.2em;
-	background: #e0e0e0 url(/rook_media/scoreboard/img/theme/rook/e0e0e0_40x100_textures_02_glass_80.png) 0 50% repeat-x;
+	background: #e0e0e0 url(/media/scoreboard/img/theme/rook/e0e0e0_40x100_textures_02_glass_80.png) 0 50% repeat-x;
 	border: 1px solid #cccccc;
 }
 .ui-slider-handle:hover {
-	background: #d8d8d8 url(/rook_media/scoreboard/img/theme/rook/d8d8d8_40x100_textures_02_glass_90.png) 0 50% repeat-x;
+	background: #d8d8d8 url(/media/scoreboard/img/theme/rook/d8d8d8_40x100_textures_02_glass_90.png) 0 50% repeat-x;
 	border: 1px solid #888888;
 }
 .ui-slider-handle-active, .ui-slider-handle-active:hover {
-	background: #8ab9ff url(/rook_media/scoreboard/img/theme/rook/8ab9ff_40x100_textures_02_glass_50.png) 0 50% repeat-x;
+	background: #8ab9ff url(/media/scoreboard/img/theme/rook/8ab9ff_40x100_textures_02_glass_50.png) 0 50% repeat-x;
 	border: 1px solid #2694e8;
 }
 .ui-slider-range {
 	/*resets*/margin: 0; padding: 0; border: 0; outline: 0; line-height: 1.3; text-decoration: none; font-size: 100%; list-style: none;
 	height: .8em;
-	background: #d8d8d8 url(/rook_media/scoreboard/img/theme/rook/d8d8d8_40x100_textures_02_glass_90.png) 0 50% repeat-x;
+	background: #d8d8d8 url(/media/scoreboard/img/theme/rook/d8d8d8_40x100_textures_02_glass_90.png) 0 50% repeat-x;
 	position: absolute;
 	border: 1px solid #cccccc;
 	border-left: 0;
@@ -189,7 +189,7 @@
 	/*resets*/margin: 0; padding: 0; border: 0; outline: 0; line-height: 1.3; text-decoration: none; font-size: 100%; list-style: none;
 	font-family: Lucida Grande, Lucida Sans, Arial, sans-serif;
 	font-size: 1.2em;
-	background: #f3f3f3 url(/rook_media/scoreboard/img/theme/rook/f3f3f3_40x100_textures_01_flat_0.png) 0 0 repeat-x;
+	background: #f3f3f3 url(/media/scoreboard/img/theme/rook/f3f3f3_40x100_textures_01_flat_0.png) 0 0 repeat-x;
 	color: #362b36;
 	border: 4px solid #dddddd;
 	position: relative;
@@ -238,7 +238,7 @@ body .ui-resizable-autohide .ui-resizable-handle { display: none; } /* use 'body
 	height: 13px; 
 	right: 0px; 
 	bottom: 0px; 
-	background: url(/rook_media/scoreboard/img/theme/rook/222222_11x11_icon_resize_se.gif) no-repeat 0 0;
+	background: url(/media/scoreboard/img/theme/rook/222222_11x11_icon_resize_se.gif) no-repeat 0 0;
 }
 .ui-resizable-sw { 
 	cursor: sw-resize; 
@@ -265,7 +265,7 @@ body .ui-resizable-autohide .ui-resizable-handle { display: none; } /* use 'body
 	/*resets*/margin: 0; padding: 0; border: 0; outline: 0; line-height: 1.3; text-decoration: none; font-size: 100%; list-style: none;
 	padding: .5em 1.5em .5em 1em;
 	color: #444444;
-	background: #e0e0e0 url(/rook_media/scoreboard/img/theme/rook/e0e0e0_40x100_textures_02_glass_80.png) 0 50% repeat-x;
+	background: #e0e0e0 url(/media/scoreboard/img/theme/rook/e0e0e0_40x100_textures_02_glass_80.png) 0 50% repeat-x;
 	border-bottom: 1px solid #cccccc;
 	font-size: 1em;
 	font-weight: normal;
@@ -274,7 +274,7 @@ body .ui-resizable-autohide .ui-resizable-handle { display: none; } /* use 'body
 .ui-dialog-title {}
 .ui-dialog-titlebar-close {
 	/*resets*/margin: 0; padding: 0; border: 0; outline: 0; line-height: 1.3; text-decoration: none; font-size: 100%; list-style: none;
-	background: url(/rook_media/scoreboard/img/theme/rook/888888_11x11_icon_close.gif) 0 0 no-repeat;
+	background: url(/media/scoreboard/img/theme/rook/888888_11x11_icon_close.gif) 0 0 no-repeat;
 	position: absolute;
 	right: 8px;
 	top: .7em;
@@ -283,10 +283,10 @@ body .ui-resizable-autohide .ui-resizable-handle { display: none; } /* use 'body
 	z-index: 100;
 }
 .ui-dialog-titlebar-close-hover, .ui-dialog-titlebar-close:hover {
-	background: url(/rook_media/scoreboard/img/theme/rook/222222_11x11_icon_close.gif) 0 0 no-repeat;
+	background: url(/media/scoreboard/img/theme/rook/222222_11x11_icon_close.gif) 0 0 no-repeat;
 }
 .ui-dialog-titlebar-close:active {
-	background: url(/rook_media/scoreboard/img/theme/rook/ffffff_11x11_icon_close.gif) 0 0 no-repeat;
+	background: url(/media/scoreboard/img/theme/rook/ffffff_11x11_icon_close.gif) 0 0 no-repeat;
 }
 .ui-dialog-titlebar-close span {
 	display: none;
@@ -307,7 +307,7 @@ body .ui-resizable-autohide .ui-resizable-handle { display: none; } /* use 'body
 .ui-dialog-buttonpane button {
 	margin: .5em 0 .5em 8px;
 	color: #444444;
-	background: #e0e0e0 url(/rook_media/scoreboard/img/theme/rook/e0e0e0_40x100_textures_02_glass_80.png) 0 50% repeat-x;
+	background: #e0e0e0 url(/media/scoreboard/img/theme/rook/e0e0e0_40x100_textures_02_glass_80.png) 0 50% repeat-x;
 	font-size: 1em;
 	border: 1px solid #cccccc;
 	cursor: pointer;
@@ -316,12 +316,12 @@ body .ui-resizable-autohide .ui-resizable-handle { display: none; } /* use 'body
 }
 .ui-dialog-buttonpane button:hover {
 	color: #111111;
-	background: #d8d8d8 url(/rook_media/scoreboard/img/theme/rook/d8d8d8_40x100_textures_02_glass_90.png) 0 50% repeat-x;
+	background: #d8d8d8 url(/media/scoreboard/img/theme/rook/d8d8d8_40x100_textures_02_glass_90.png) 0 50% repeat-x;
 	border: 1px solid #888888;
 }
 .ui-dialog-buttonpane button:active {
 	color: #000000;
-	background: #8ab9ff url(/rook_media/scoreboard/img/theme/rook/8ab9ff_40x100_textures_02_glass_50.png) 0 50% repeat-x;
+	background: #8ab9ff url(/media/scoreboard/img/theme/rook/8ab9ff_40x100_textures_02_glass_50.png) 0 50% repeat-x;
 	border: 1px solid #2694e8;
 }
 /* This file skins dialog */
@@ -341,7 +341,7 @@ body .ui-resizable-autohide .ui-resizable-handle { display: none; } /* use 'body
 .ui-datepicker-div, .ui-datepicker-inline, #ui-datepicker-div {
 	/*resets*/margin: 0; padding: 0; border: 0; outline: 0; line-height: 1.3; text-decoration: none; font-size: 100%; list-style: none;
 	font-family: Lucida Grande, Lucida Sans, Arial, sans-serif;
-	background: #f3f3f3 url(/rook_media/scoreboard/img/theme/rook/f3f3f3_40x100_textures_01_flat_0.png) 0 0 repeat-x;
+	background: #f3f3f3 url(/media/scoreboard/img/theme/rook/f3f3f3_40x100_textures_01_flat_0.png) 0 0 repeat-x;
 	font-size: 1.2em;
 	border: 4px solid #dddddd;
 	width: 15.5em;
@@ -366,13 +366,13 @@ body .ui-resizable-autohide .ui-resizable-handle { display: none; } /* use 'body
 	position: absolute;
 	left: .5em;
 	top: .5em;
-	background: #e0e0e0 url(/rook_media/scoreboard/img/theme/rook/e0e0e0_40x100_textures_02_glass_80.png) 0 50% repeat-x;
+	background: #e0e0e0 url(/media/scoreboard/img/theme/rook/e0e0e0_40x100_textures_02_glass_80.png) 0 50% repeat-x;
 }
 .ui-datepicker-next {
 	left: 14.6em;
 }
 .ui-datepicker-next:hover, .ui-datepicker-prev:hover {
-	background: #d8d8d8 url(/rook_media/scoreboard/img/theme/rook/d8d8d8_40x100_textures_02_glass_90.png) 0 50% repeat-x;
+	background: #d8d8d8 url(/media/scoreboard/img/theme/rook/d8d8d8_40x100_textures_02_glass_90.png) 0 50% repeat-x;
 }
 .ui-datepicker-next a, .ui-datepicker-prev a {
 	text-indent: -999999px;
@@ -380,24 +380,24 @@ body .ui-resizable-autohide .ui-resizable-handle { display: none; } /* use 'body
 	height: 1.4em;
 	display: block;
 	font-size: 1em;
-	background: url(/rook_media/scoreboard/img/theme/rook/888888_7x7_arrow_left.gif) 50% 50% no-repeat;
+	background: url(/media/scoreboard/img/theme/rook/888888_7x7_arrow_left.gif) 50% 50% no-repeat;
 	border: 1px solid #cccccc;
 	cursor: pointer;
 }
 .ui-datepicker-next a {
-	background: url(/rook_media/scoreboard/img/theme/rook/888888_7x7_arrow_right.gif) 50% 50% no-repeat;
+	background: url(/media/scoreboard/img/theme/rook/888888_7x7_arrow_right.gif) 50% 50% no-repeat;
 }
 .ui-datepicker-prev a:hover {
-	background: url(/rook_media/scoreboard/img/theme/rook/222222_7x7_arrow_left.gif) 50% 50% no-repeat;
+	background: url(/media/scoreboard/img/theme/rook/222222_7x7_arrow_left.gif) 50% 50% no-repeat;
 }
 .ui-datepicker-next a:hover {
-	background: url(/rook_media/scoreboard/img/theme/rook/222222_7x7_arrow_right.gif) 50% 50% no-repeat;
+	background: url(/media/scoreboard/img/theme/rook/222222_7x7_arrow_right.gif) 50% 50% no-repeat;
 }
 .ui-datepicker-prev a:active {
-	background: url(/rook_media/scoreboard/img/theme/rook/ffffff_7x7_arrow_left.gif) 50% 50% no-repeat;
+	background: url(/media/scoreboard/img/theme/rook/ffffff_7x7_arrow_left.gif) 50% 50% no-repeat;
 }
 .ui-datepicker-next a:active {
-	background: url(/rook_media/scoreboard/img/theme/rook/ffffff_7x7_arrow_right.gif) 50% 50% no-repeat;
+	background: url(/media/scoreboard/img/theme/rook/ffffff_7x7_arrow_right.gif) 50% 50% no-repeat;
 }
 .ui-datepicker-header select {
 	border: 1px solid #cccccc;
@@ -428,19 +428,19 @@ table.ui-datepicker td a {
 	padding: .1em .3em .1em 0;
 	display: block;
 	color: #444444;
-	background: #e0e0e0 url(/rook_media/scoreboard/img/theme/rook/e0e0e0_40x100_textures_02_glass_80.png) 0 50% repeat-x;
+	background: #e0e0e0 url(/media/scoreboard/img/theme/rook/e0e0e0_40x100_textures_02_glass_80.png) 0 50% repeat-x;
 	cursor: pointer;
 	border: 1px solid #f3f3f3;
 }
 table.ui-datepicker td a:hover {
 	border: 1px solid #888888;
 	color: #111111;
-	background: #d8d8d8 url(/rook_media/scoreboard/img/theme/rook/d8d8d8_40x100_textures_02_glass_90.png) 0 50% repeat-x;
+	background: #d8d8d8 url(/media/scoreboard/img/theme/rook/d8d8d8_40x100_textures_02_glass_90.png) 0 50% repeat-x;
 }
 table.ui-datepicker td a:active {
 	border: 1px solid #2694e8;
 	color: #000000;
-	background: #8ab9ff url(/rook_media/scoreboard/img/theme/rook/8ab9ff_40x100_textures_02_glass_50.png) 0 50% repeat-x;
+	background: #8ab9ff url(/media/scoreboard/img/theme/rook/8ab9ff_40x100_textures_02_glass_50.png) 0 50% repeat-x;
 }
 table.ui-datepicker .ui-datepicker-title-row td {
 	padding: .3em 0;
@@ -483,7 +483,7 @@ table.ui-datepicker .ui-datepicker-title-row td a {
 }
 .ui-autocomplete-results ul {
 	border: 1px solid #cccccc;
-	background: #f3f3f3 url(/rook_media/scoreboard/img/theme/rook/f3f3f3_40x100_textures_01_flat_0.png) 0 0 repeat-x;
+	background: #f3f3f3 url(/media/scoreboard/img/theme/rook/f3f3f3_40x100_textures_01_flat_0.png) 0 0 repeat-x;
 	color: #362b36;
 	margin-bottom: -1px;
 }
@@ -509,12 +509,12 @@ table.ui-datepicker .ui-datepicker-title-row td a {
 }
 .ui-autocomplete-results li.ui-autocomplete-over {
 	border: 1px solid #888888;
-	background: #d8d8d8 url(/rook_media/scoreboard/img/theme/rook/d8d8d8_40x100_textures_02_glass_90.png) 0 50% repeat-x;
+	background: #d8d8d8 url(/media/scoreboard/img/theme/rook/d8d8d8_40x100_textures_02_glass_90.png) 0 50% repeat-x;
 	color: #111111 !important;
 }
 .ui-autocomplete-results li.ui-autocomplete-active {
 	border: 1px solid #2694e8;
-	background: #8ab9ff url(/rook_media/scoreboard/img/theme/rook/8ab9ff_40x100_textures_02_glass_50.png) 0 50% repeat-x;
+	background: #8ab9ff url(/media/scoreboard/img/theme/rook/8ab9ff_40x100_textures_02_glass_50.png) 0 50% repeat-x;
 	color: #000000 !important;
 	outline: none;
 }
@@ -530,12 +530,12 @@ table.ui-datepicker .ui-datepicker-title-row td a {
 	/*resets*/margin: 0; padding: 0; border: 0; outline: 0; line-height: 1.3; text-decoration: none; font-size: 100%; list-style: none;
 	font-family: Lucida Grande, Lucida Sans, Arial, sans-serif;
 	font-size: 1.2em;
-	background: #f3f3f3 url(/rook_media/scoreboard/img/theme/rook/f3f3f3_40x100_textures_01_flat_0.png) 0 0 repeat-x;
+	background: #f3f3f3 url(/media/scoreboard/img/theme/rook/f3f3f3_40x100_textures_01_flat_0.png) 0 0 repeat-x;
 	border: 1px solid #dddddd;
 	position: relative;
 }
 .ui-progressbar-bar {
-	background: #e0e0e0 url(/rook_media/scoreboard/img/theme/rook/e0e0e0_40x100_textures_02_glass_80.png) 0 50% repeat-x;
+	background: #e0e0e0 url(/media/scoreboard/img/theme/rook/e0e0e0_40x100_textures_02_glass_80.png) 0 50% repeat-x;
 	overflow: visible;
 	position: relative;
 	border: 1px solid #cccccc;
@@ -575,7 +575,7 @@ table.ui-datepicker .ui-datepicker-title-row td a {
 	/*resets*/margin: 0; padding: 0; border: 0; outline: 0; line-height: 1.3; text-decoration: none; font-size: 100%; list-style: none;
 	font-family: Lucida Grande, Lucida Sans, Arial, sans-serif;
 	font-size: 1.2em;
-	background: #f3f3f3 url(/rook_media/scoreboard/img/theme/rook/f3f3f3_40x100_textures_01_flat_0.png) 0 0 repeat-x;
+	background: #f3f3f3 url(/media/scoreboard/img/theme/rook/f3f3f3_40x100_textures_01_flat_0.png) 0 0 repeat-x;
 	border: 4px solid #dddddd;
 	padding: 5px;
 	width: 360px;
@@ -590,13 +590,13 @@ table.ui-datepicker .ui-datepicker-title-row td a {
 .ui-colorpicker-color div { /* is this extra div needed? why not just .ui-colorpicker-color ? */
 	border: 1px solid #cccccc;
 	height: 150px;
-	background: url(/rook_media/scoreboard/img/theme/rook/_x_.);
+	background: url(/media/scoreboard/img/theme/rook/_x_.);
 	position: relative;
 }
 .ui-colorpicker-color div div {/* shouldn't this have a class like ui-colorpicker-selector ? */
 	width: 11px;
 	height: 11px;
-	background: url(/rook_media/scoreboard/img/theme/rook/_x_.);
+	background: url(/media/scoreboard/img/theme/rook/_x_.);
 	position: absolute;
 	border: 0;
 	margin: -5px 0 0 -5px;
@@ -607,12 +607,12 @@ table.ui-datepicker .ui-datepicker-title-row td a {
 	float: left;
 	width: 17px;
 	height: 150px;
-	background: url(/rook_media/scoreboard/img/theme/rook/_x_.);
+	background: url(/media/scoreboard/img/theme/rook/_x_.);
 	position: relative;
 	margin-right: 15px;
 }
 .ui-colorpicker-hue div {
-	background:transparent url(/rook_media/scoreboard/img/theme/rook/_x_.); /*this image should be themerollable*/
+	background:transparent url(/media/scoreboard/img/theme/rook/_x_.); /*this image should be themerollable*/
 	height:9px;
 	left:-9px;
 	margin:-4px 0 0;
@@ -682,14 +682,14 @@ table.ui-datepicker .ui-datepicker-title-row td a {
 }
 .ui-colorpicker-field span {
 	width: 7px;
-	background: url(/rook_media/scoreboard/img/theme/rook/888888_11x11_icon_arrows_updown.gif) 50% 50% no-repeat;
+	background: url(/media/scoreboard/img/theme/rook/888888_11x11_icon_arrows_updown.gif) 50% 50% no-repeat;
 	right: 5px;
 	top: 0;
 	height: 20px;
 	position: absolute;
 }
 .ui-colorpicker-field span:hover {
-	background: url(/rook_media/scoreboard/img/theme/rook/222222_11x11_icon_arrows_updown.gif) 50% 50% no-repeat;
+	background: url(/media/scoreboard/img/theme/rook/222222_11x11_icon_arrows_updown.gif) 50% 50% no-repeat;
 }
 
 .ui-colorpicker-submit {
@@ -719,7 +719,7 @@ Generic ThemeRoller Classes
 /*component content styles*/
 .ui-component-content {
 	border: 1px solid #dddddd;
-	background: #f3f3f3 url(/rook_media/scoreboard/img/theme/rook/f3f3f3_40x100_textures_01_flat_0.png) 0 0 repeat-x;
+	background: #f3f3f3 url(/media/scoreboard/img/theme/rook/f3f3f3_40x100_textures_01_flat_0.png) 0 0 repeat-x;
 	color: #362b36;
 }
 .ui-component-content a {
@@ -729,7 +729,7 @@ Generic ThemeRoller Classes
 /*component states*/
 .ui-default-state {
 	border: 1px solid #cccccc;
-	background: #e0e0e0 url(/rook_media/scoreboard/img/theme/rook/e0e0e0_40x100_textures_02_glass_80.png) 0 50% repeat-x;
+	background: #e0e0e0 url(/media/scoreboard/img/theme/rook/e0e0e0_40x100_textures_02_glass_80.png) 0 50% repeat-x;
 	font-weight: normal;
 	color: #444444 !important;
 }
@@ -738,7 +738,7 @@ Generic ThemeRoller Classes
 }
 .ui-default-state:hover, .ui-hover-state {
 	border: 1px solid #888888;
-	background: #d8d8d8 url(/rook_media/scoreboard/img/theme/rook/d8d8d8_40x100_textures_02_glass_90.png) 0 50% repeat-x;
+	background: #d8d8d8 url(/media/scoreboard/img/theme/rook/d8d8d8_40x100_textures_02_glass_90.png) 0 50% repeat-x;
 	font-weight: normal;
 	color: #111111 !important;
 }
@@ -747,7 +747,7 @@ Generic ThemeRoller Classes
 }
 .ui-default-state:active, .ui-active-state {
 	border: 1px solid #2694e8;
-	background: #8ab9ff url(/rook_media/scoreboard/img/theme/rook/8ab9ff_40x100_textures_02_glass_50.png) 0 50% repeat-x;
+	background: #8ab9ff url(/media/scoreboard/img/theme/rook/8ab9ff_40x100_textures_02_glass_50.png) 0 50% repeat-x;
 	font-weight: normal;
 	color: #000000 !important;
 	outline: none;
@@ -757,65 +757,65 @@ Generic ThemeRoller Classes
 	outline: none;
 }
 /*icons*/
-.ui-arrow-right-default {background: url(/rook_media/scoreboard/img/theme/rook/888888_7x7_arrow_right.gif) no-repeat 50% 50%;}
-.ui-arrow-right-default:hover, .ui-arrow-right-hover {background: url(/rook_media/scoreboard/img/theme/rook/222222_7x7_arrow_right.gif) no-repeat 50% 50%;}
-.ui-arrow-right-default:active, .ui-arrow-right-active {background: url(/rook_media/scoreboard/img/theme/rook/ffffff_7x7_arrow_right.gif) no-repeat 50% 50%;}
-.ui-arrow-right-content {background: url(/rook_media/scoreboard/img/theme/rook/222222_7x7_arrow_right.gif) no-repeat 50% 50%;}
+.ui-arrow-right-default {background: url(/media/scoreboard/img/theme/rook/888888_7x7_arrow_right.gif) no-repeat 50% 50%;}
+.ui-arrow-right-default:hover, .ui-arrow-right-hover {background: url(/media/scoreboard/img/theme/rook/222222_7x7_arrow_right.gif) no-repeat 50% 50%;}
+.ui-arrow-right-default:active, .ui-arrow-right-active {background: url(/media/scoreboard/img/theme/rook/ffffff_7x7_arrow_right.gif) no-repeat 50% 50%;}
+.ui-arrow-right-content {background: url(/media/scoreboard/img/theme/rook/222222_7x7_arrow_right.gif) no-repeat 50% 50%;}
 
-.ui-arrow-left-default {background: url(/rook_media/scoreboard/img/theme/rook/888888_7x7_arrow_left.gif) no-repeat 50% 50%;}
-.ui-arrow-left-default:hover, .ui-arrow-left-hover {background: url(/rook_media/scoreboard/img/theme/rook/222222_7x7_arrow_left.gif) no-repeat 50% 50%;}
-.ui-arrow-left-default:active, .ui-arrow-left-active {background: url(/rook_media/scoreboard/img/theme/rook/ffffff_7x7_arrow_left.gif) no-repeat 50% 50%;}
-.ui-arrow-left-content {background: url(/rook_media/scoreboard/img/theme/rook/222222_7x7_arrow_left.gif) no-repeat 50% 50%;}
+.ui-arrow-left-default {background: url(/media/scoreboard/img/theme/rook/888888_7x7_arrow_left.gif) no-repeat 50% 50%;}
+.ui-arrow-left-default:hover, .ui-arrow-left-hover {background: url(/media/scoreboard/img/theme/rook/222222_7x7_arrow_left.gif) no-repeat 50% 50%;}
+.ui-arrow-left-default:active, .ui-arrow-left-active {background: url(/media/scoreboard/img/theme/rook/ffffff_7x7_arrow_left.gif) no-repeat 50% 50%;}
+.ui-arrow-left-content {background: url(/media/scoreboard/img/theme/rook/222222_7x7_arrow_left.gif) no-repeat 50% 50%;}
 
-.ui-arrow-down-default {background: url(/rook_media/scoreboard/img/theme/rook/888888_7x7_arrow_down.gif) no-repeat 50% 50%;}
-.ui-arrow-down-default:hover, .ui-arrow-down-hover {background: url(/rook_media/scoreboard/img/theme/rook/222222_7x7_arrow_down.gif) no-repeat 50% 50%;}
-.ui-arrow-down-default:active, .ui-arrow-down-active {background: url(/rook_media/scoreboard/img/theme/rook/ffffff_7x7_arrow_down.gif) no-repeat 50% 50%;}
-.ui-arrow-down-content {background: url(/rook_media/scoreboard/img/theme/rook/222222_7x7_arrow_down.gif) no-repeat 50% 50%;}
+.ui-arrow-down-default {background: url(/media/scoreboard/img/theme/rook/888888_7x7_arrow_down.gif) no-repeat 50% 50%;}
+.ui-arrow-down-default:hover, .ui-arrow-down-hover {background: url(/media/scoreboard/img/theme/rook/222222_7x7_arrow_down.gif) no-repeat 50% 50%;}
+.ui-arrow-down-default:active, .ui-arrow-down-active {background: url(/media/scoreboard/img/theme/rook/ffffff_7x7_arrow_down.gif) no-repeat 50% 50%;}
+.ui-arrow-down-content {background: url(/media/scoreboard/img/theme/rook/222222_7x7_arrow_down.gif) no-repeat 50% 50%;}
 
-.ui-arrow-up-default {background: url(/rook_media/scoreboard/img/theme/rook/888888_7x7_arrow_up.gif) no-repeat 50% 50%;}
-.ui-arrow-up-default:hover, .ui-arrow-up-hover {background: url(/rook_media/scoreboard/img/theme/rook/222222_7x7_arrow_up.gif) no-repeat 50% 50%;}
-.ui-arrow-up-default:active, .ui-arrow-up-active {background: url(/rook_media/scoreboard/img/theme/rook/ffffff_7x7_arrow_up.gif) no-repeat 50% 50%;}
-.ui-arrow-up-content {background: url(/rook_media/scoreboard/img/theme/rook/222222_7x7_arrow_up.gif) no-repeat 50% 50%;}
+.ui-arrow-up-default {background: url(/media/scoreboard/img/theme/rook/888888_7x7_arrow_up.gif) no-repeat 50% 50%;}
+.ui-arrow-up-default:hover, .ui-arrow-up-hover {background: url(/media/scoreboard/img/theme/rook/222222_7x7_arrow_up.gif) no-repeat 50% 50%;}
+.ui-arrow-up-default:active, .ui-arrow-up-active {background: url(/media/scoreboard/img/theme/rook/ffffff_7x7_arrow_up.gif) no-repeat 50% 50%;}
+.ui-arrow-up-content {background: url(/media/scoreboard/img/theme/rook/222222_7x7_arrow_up.gif) no-repeat 50% 50%;}
 
-.ui-close-default {background: url(/rook_media/scoreboard/img/theme/rook/888888_11x11_icon_close.gif) no-repeat 50% 50%;}
-.ui-close-default:hover, .ui-close-hover {background: url(/rook_media/scoreboard/img/theme/rook/222222_11x11_icon_close.gif) no-repeat 50% 50%;}
-.ui-close-default:active, .ui-close-active {background: url(/rook_media/scoreboard/img/theme/rook/ffffff_11x11_icon_close.gif) no-repeat 50% 50%;}
-.ui-close-content {background: url(/rook_media/scoreboard/img/theme/rook/ffffff_11x11_icon_close.gif) no-repeat 50% 50%;}
+.ui-close-default {background: url(/media/scoreboard/img/theme/rook/888888_11x11_icon_close.gif) no-repeat 50% 50%;}
+.ui-close-default:hover, .ui-close-hover {background: url(/media/scoreboard/img/theme/rook/222222_11x11_icon_close.gif) no-repeat 50% 50%;}
+.ui-close-default:active, .ui-close-active {background: url(/media/scoreboard/img/theme/rook/ffffff_11x11_icon_close.gif) no-repeat 50% 50%;}
+.ui-close-content {background: url(/media/scoreboard/img/theme/rook/ffffff_11x11_icon_close.gif) no-repeat 50% 50%;}
 
-.ui-folder-closed-default {background: url(/rook_media/scoreboard/img/theme/rook/888888_11x11_icon_folder_closed.gif) no-repeat 50% 50%;}
-.ui-folder-closed-default:hover, .ui-folder-closed-hover {background: url(/rook_media/scoreboard/img/theme/rook/222222_11x11_icon_folder_closed.gif) no-repeat 50% 50%;}
-.ui-folder-closed-default:active, .ui-folder-closed-active {background: url(/rook_media/scoreboard/img/theme/rook/ffffff_11x11_icon_folder_closed.gif) no-repeat 50% 50%;}
-.ui-folder-closed-content {background: url(/rook_media/scoreboard/img/theme/rook/888888_11x11_icon_folder_closed.gif) no-repeat 50% 50%;}
+.ui-folder-closed-default {background: url(/media/scoreboard/img/theme/rook/888888_11x11_icon_folder_closed.gif) no-repeat 50% 50%;}
+.ui-folder-closed-default:hover, .ui-folder-closed-hover {background: url(/media/scoreboard/img/theme/rook/222222_11x11_icon_folder_closed.gif) no-repeat 50% 50%;}
+.ui-folder-closed-default:active, .ui-folder-closed-active {background: url(/media/scoreboard/img/theme/rook/ffffff_11x11_icon_folder_closed.gif) no-repeat 50% 50%;}
+.ui-folder-closed-content {background: url(/media/scoreboard/img/theme/rook/888888_11x11_icon_folder_closed.gif) no-repeat 50% 50%;}
 
-.ui-folder-open-default {background: url(/rook_media/scoreboard/img/theme/rook/888888_11x11_icon_folder_open.gif) no-repeat 50% 50%;}
-.ui-folder-open-default:hover, .ui-folder-open-hover {background: url(/rook_media/scoreboard/img/theme/rook/222222_11x11_icon_folder_open.gif) no-repeat 50% 50%;}
-.ui-folder-open-default:active, .ui-folder-open-active {background: url(/rook_media/scoreboard/img/theme/rook/ffffff_11x11_icon_folder_open.gif) no-repeat 50% 50%;}
-.ui-folder-open-content {background: url(/rook_media/scoreboard/img/theme/rook/ffffff_11x11_icon_folder_open.gif) no-repeat 50% 50%;}
+.ui-folder-open-default {background: url(/media/scoreboard/img/theme/rook/888888_11x11_icon_folder_open.gif) no-repeat 50% 50%;}
+.ui-folder-open-default:hover, .ui-folder-open-hover {background: url(/media/scoreboard/img/theme/rook/222222_11x11_icon_folder_open.gif) no-repeat 50% 50%;}
+.ui-folder-open-default:active, .ui-folder-open-active {background: url(/media/scoreboard/img/theme/rook/ffffff_11x11_icon_folder_open.gif) no-repeat 50% 50%;}
+.ui-folder-open-content {background: url(/media/scoreboard/img/theme/rook/ffffff_11x11_icon_folder_open.gif) no-repeat 50% 50%;}
 
-.ui-doc-default {background: url(/rook_media/scoreboard/img/theme/rook/888888_11x11_icon_doc.gif) no-repeat 50% 50%;}
-.ui-doc-default:hover, .ui-doc-hover {background: url(/rook_media/scoreboard/img/theme/rook/222222_11x11_icon_doc.gif) no-repeat 50% 50%;}
-.ui-doc-default:active, .ui-doc-active {background: url(/rook_media/scoreboard/img/theme/rook/ffffff_11x11_icon_doc.gif) no-repeat 50% 50%;}
-.ui-doc-content {background: url(/rook_media/scoreboard/img/theme/rook/222222_11x11_icon_doc.gif) no-repeat 50% 50%;}
+.ui-doc-default {background: url(/media/scoreboard/img/theme/rook/888888_11x11_icon_doc.gif) no-repeat 50% 50%;}
+.ui-doc-default:hover, .ui-doc-hover {background: url(/media/scoreboard/img/theme/rook/222222_11x11_icon_doc.gif) no-repeat 50% 50%;}
+.ui-doc-default:active, .ui-doc-active {background: url(/media/scoreboard/img/theme/rook/ffffff_11x11_icon_doc.gif) no-repeat 50% 50%;}
+.ui-doc-content {background: url(/media/scoreboard/img/theme/rook/222222_11x11_icon_doc.gif) no-repeat 50% 50%;}
 
-.ui-arrows-leftright-default {background: url(/rook_media/scoreboard/img/theme/rook/888888_11x11_icon_arrows_leftright.gif) no-repeat 50% 50%;}
-.ui-arrows-leftright-default:hover, .ui-arrows-leftright-hover {background: url(/rook_media/scoreboard/img/theme/rook/222222_11x11_icon_arrows_leftright.gif) no-repeat 50% 50%;}
-.ui-arrows-leftright-default:active, .ui-arrows-leftright-active {background: url(/rook_media/scoreboard/img/theme/rook/ffffff_11x11_icon_arrows_leftright.gif) no-repeat 50% 50%;}
-.ui-arrows-leftright-content {background: url(/rook_media/scoreboard/img/theme/rook/222222_11x11_icon_arrows_leftright.gif) no-repeat 50% 50%;}
+.ui-arrows-leftright-default {background: url(/media/scoreboard/img/theme/rook/888888_11x11_icon_arrows_leftright.gif) no-repeat 50% 50%;}
+.ui-arrows-leftright-default:hover, .ui-arrows-leftright-hover {background: url(/media/scoreboard/img/theme/rook/222222_11x11_icon_arrows_leftright.gif) no-repeat 50% 50%;}
+.ui-arrows-leftright-default:active, .ui-arrows-leftright-active {background: url(/media/scoreboard/img/theme/rook/ffffff_11x11_icon_arrows_leftright.gif) no-repeat 50% 50%;}
+.ui-arrows-leftright-content {background: url(/media/scoreboard/img/theme/rook/222222_11x11_icon_arrows_leftright.gif) no-repeat 50% 50%;}
 
-.ui-arrows-updown-default {background: url(/rook_media/scoreboard/img/theme/rook/888888_11x11_icon_arrows_updown.gif) no-repeat 50% 50%;}
-.ui-arrows-updown-default:hover, .ui-arrows-updown-hover {background: url(/rook_media/scoreboard/img/theme/rook/222222_11x11_icon_arrows_updown.gif) no-repeat 50% 50%;}
-.ui-arrows-updown-default:active, .ui-arrows-updown-active {background: url(/rook_media/scoreboard/img/theme/rook/ffffff_11x11_icon_arrows_updown.gif) no-repeat 50% 50%;}
-.ui-arrows-updown-content {background: url(/rook_media/scoreboard/img/theme/rook/222222_11x11_icon_arrows_updown.gif) no-repeat 50% 50%;}
+.ui-arrows-updown-default {background: url(/media/scoreboard/img/theme/rook/888888_11x11_icon_arrows_updown.gif) no-repeat 50% 50%;}
+.ui-arrows-updown-default:hover, .ui-arrows-updown-hover {background: url(/media/scoreboard/img/theme/rook/222222_11x11_icon_arrows_updown.gif) no-repeat 50% 50%;}
+.ui-arrows-updown-default:active, .ui-arrows-updown-active {background: url(/media/scoreboard/img/theme/rook/ffffff_11x11_icon_arrows_updown.gif) no-repeat 50% 50%;}
+.ui-arrows-updown-content {background: url(/media/scoreboard/img/theme/rook/222222_11x11_icon_arrows_updown.gif) no-repeat 50% 50%;}
 
-.ui-minus-default {background: url(/rook_media/scoreboard/img/theme/rook/888888_11x11_icon_minus.gif) no-repeat 50% 50%;}
-.ui-minus-default:hover, .ui-minus-hover {background: url(/rook_media/scoreboard/img/theme/rook/222222_11x11_icon_minus.gif) no-repeat 50% 50%;}
-.ui-minus-default:active, .ui-minus-active {background: url(/rook_media/scoreboard/img/theme/rook/ffffff_11x11_icon_minus.gif) no-repeat 50% 50%;}
-.ui-minus-content {background: url(/rook_media/scoreboard/img/theme/rook/222222_11x11_icon_minus.gif) no-repeat 50% 50%;}
+.ui-minus-default {background: url(/media/scoreboard/img/theme/rook/888888_11x11_icon_minus.gif) no-repeat 50% 50%;}
+.ui-minus-default:hover, .ui-minus-hover {background: url(/media/scoreboard/img/theme/rook/222222_11x11_icon_minus.gif) no-repeat 50% 50%;}
+.ui-minus-default:active, .ui-minus-active {background: url(/media/scoreboard/img/theme/rook/ffffff_11x11_icon_minus.gif) no-repeat 50% 50%;}
+.ui-minus-content {background: url(/media/scoreboard/img/theme/rook/222222_11x11_icon_minus.gif) no-repeat 50% 50%;}
 
-.ui-plus-default {background: url(/rook_media/scoreboard/img/theme/rook/888888_11x11_icon_plus.gif) no-repeat 50% 50%;}
-.ui-plus-default:hover, .ui-plus-hover {background: url(/rook_media/scoreboard/img/theme/rook/222222_11x11_icon_plus.gif) no-repeat 50% 50%;}
-.ui-plus-default:active, .ui-plus-active {background: url(/rook_media/scoreboard/img/theme/rook/ffffff_11x11_icon_plus.gif) no-repeat 50% 50%;}
-.ui-plus-content {background: url(/rook_media/scoreboard/img/theme/rook/222222_11x11_icon_plus.gif) no-repeat 50% 50%;}
+.ui-plus-default {background: url(/media/scoreboard/img/theme/rook/888888_11x11_icon_plus.gif) no-repeat 50% 50%;}
+.ui-plus-default:hover, .ui-plus-hover {background: url(/media/scoreboard/img/theme/rook/222222_11x11_icon_plus.gif) no-repeat 50% 50%;}
+.ui-plus-default:active, .ui-plus-active {background: url(/media/scoreboard/img/theme/rook/ffffff_11x11_icon_plus.gif) no-repeat 50% 50%;}
+.ui-plus-content {background: url(/media/scoreboard/img/theme/rook/222222_11x11_icon_plus.gif) no-repeat 50% 50%;}
 
 /*hidden elements*/
 .ui-hidden {
