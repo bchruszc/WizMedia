@@ -219,7 +219,7 @@ z-index: 2;
 position: absolute;
 background: #FF7800 url('/media/scoreboard/img/a8.gif') repeat-x;
 width: 505px;
-height: 107px;
+height: 112px;
 color: #fff;
 padding-left: 20px;
 }
@@ -235,7 +235,7 @@ position: absolute;
 font-size: 23px;
 letter-spacing: -1px;
 top: 30px;
-height: 107px; //92px;
+height: 112px; //92px;
 }
 
 #header h2
@@ -258,7 +258,7 @@ position: absolute;
 right: 30px;
 background: #EAEAE2 url('/media/scoreboard/img/wizard.jpg') no-repeat;
 width: 255px; //458px;
-height: 107px; //92px;
+height: 112px; //92px;
 }
 
 #menu
