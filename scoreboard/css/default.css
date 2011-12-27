@@ -235,7 +235,7 @@ position: absolute;
 font-size: 23px;
 letter-spacing: -1px;
 top: 30px;
-height: 92px;
+height: 107px; //92px;
 }
 
 #header h2
@@ -257,8 +257,8 @@ color: #FCE2CA;
 position: absolute;
 right: 30px;
 background: #EAEAE2 url('/media/scoreboard/img/wizard.jpg') no-repeat;
-width: 458px;
-height: 92px;
+width: 255px; //458px;
+height: 107px; //92px;
 }
 
 #menu
