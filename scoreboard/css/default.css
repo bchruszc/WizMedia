@@ -99,7 +99,8 @@ table.main_table {
   border: 1px solid #03476F;
   font: normal 11px verdana, arial, helvetica, sans-serif;
   color: #363636;
-  background: #7FD5D6;
+  // 0485D6 = darkish blue
+  background: #0485D6; // #7FD5D6;
   margin-left: auto;
   margin-right: auto;
 }
@@ -131,7 +132,9 @@ table.main_table thead th, table.main_table tfoot th {
   font: bold 11px verdana, arial, helvetica, sans-serif;
   border: 1px solid #03476F;;
   text-align: left;
-  background: #4591AD;
+  /* Table header background colour */
+  // 10379E = Light blue
+  background: #10379E; //#4591AD;
   color: #FFFFFF;
   padding-top:3px;
   }
@@ -256,7 +259,7 @@ color: #FCE2CA;
 {
 position: absolute;
 right: 30px;
-background: #EAEAE2 url('/media/scoreboard/img/wizard.jpg') no-repeat;
+background: #10379E url('/media/scoreboard/img/wizard.jpg') no-repeat;
 width: 255px; //458px;
 height: 112px; //92px;
 }
